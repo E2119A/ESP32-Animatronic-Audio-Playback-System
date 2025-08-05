@@ -13,13 +13,13 @@ The upgrade was implemented as a **Bachelor’s thesis** in **Computer Science**
 
 ## 🎯 Features
 
-- 🔊 Bluetooth Audio Receiver (A2DP) via ESP32  
-- 🧠 Real-Time Audio Frequency Analysis with FFT  
-- 🐟 Synchronized Movement of mouth, head, and tail based on music  
-- ⚡ Low-Latency Playback (≤500ms delay)  
-- 🔌 Powered via USB-C and external motor power  
-- 🛠️ Reuses original DC motors and mechanical transmission  
-- 🎵 Best performance with clear rhythmic music (e.g. hip-hop, pop)  
+- Bluetooth Audio Receiver (A2DP) via ESP32  
+- Real-Time Audio Frequency Analysis with FFT  
+- Synchronized Movement of mouth, head, and tail based on music  
+- Low-Latency Playback (≤500ms delay)  
+- Powered via USB-C and external motor power  
+- Reuses original DC motors and mechanical transmission  
+- Best performance with clear rhythmic music (e.g. hip-hop, pop)  
 
 ---
 
