@@ -97,7 +97,7 @@ The upgrade was implemented as a **Bachelor’s thesis** in **Computer Science**
 
 - 📡 Wi-Fi control for smart home integration
 - 📺 Equalizer display via small screen
-- 🧳 Custom 3D-printed enclosures
+- 🧳 Custom 3D-printed case
 
 ---
 
@@ -106,7 +106,7 @@ The upgrade was implemented as a **Bachelor’s thesis** in **Computer Science**
 This project is based on the bachelor’s thesis:
 
 > **"Embedded Audio Analysis for a Modernized Retro Toy"**  
-> by *Bohdan Yeromenko*, 2025  
+> by Bohdan Yeromenko, 2025  
 > Supervisor: Prof. Alexander Shapoval  
 > University of Łódź, Department of Artificial Intelligence and Nonlinear Analysis
 
