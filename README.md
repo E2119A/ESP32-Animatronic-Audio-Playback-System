@@ -25,8 +25,8 @@ The upgrade was implemented as a **Bachelor’s thesis** in **Computer Science**
 
 ## 🎥 Demo
 
-- 🎥 [Demo 1 (MP4)](./media/demo1.mp4)
-- 🎥 [Demo 2 (MP4)](./media/demo2.mp4)
+- [Demo 1 (MP4)](./media/demo1.mp4)
+- [Demo 2 (MP4)](./media/demo2.mp4)
 
 ---
 
