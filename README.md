@@ -95,9 +95,9 @@ The upgrade was implemented as a **Bachelor’s thesis** in **Computer Science**
 
 ## 🚀 Future Improvements
 
-- 📡 Wi-Fi control for smart home integration
-- 📺 Equalizer display via small screen
-- 🧳 Custom 3D-printed case
+- Wi-Fi control for smart home integration
+- Equalizer display via small screen
+- Custom 3D-printed case
 
 ---
 
