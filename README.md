@@ -1,4 +1,4 @@
-# Big Mouth Billy Bass 2.0 🎶🐟  
+# ESP32-Based Audio-Synced Animatronic Project 🎶🐟  
 **Modernized Interactive Audio Toy Based on ESP32**
 
 ## 🧠 Overview
