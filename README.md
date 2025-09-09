@@ -1,5 +1,5 @@
 # ESP32-Based Audio-Synced Animatronic Project 🎶🐟  
-**Modernized Interactive Audio Toy Based on ESP32**
+**Modernized Interactive Audio Toy**
 
 ## 🧠 Overview
 
