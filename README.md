@@ -12,7 +12,7 @@ The upgrade was implemented as a **Bachelor’s thesis** in **Computer Science**
 ---
 
 
-![Fish](./media/demo4.jpg)
+![Billy](./media/demo4.jpg)
 
 
 ## 🎯 Features
