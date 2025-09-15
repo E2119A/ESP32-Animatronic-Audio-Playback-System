@@ -10,7 +10,7 @@ The upgrade was implemented as a **Bachelor’s thesis** in **Computer Science**
 📑 Also see a project [Presenataion](./docs/Presentation.pptx).
 
 ---
-![Demo](./media/demo3.gif)
+![Demo GIF](./media/demo3.gif)
 ## 🎯 Features
 
 - Bluetooth Audio Receiver (A2DP) via ESP32  
