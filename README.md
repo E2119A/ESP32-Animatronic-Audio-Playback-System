@@ -11,7 +11,9 @@ The upgrade was implemented as a **Bachelor’s thesis** in **Computer Science**
 
 ---
 
-![Demo GIF](./media/demo3.gif)
+### Animated Demo (GIF)
+![ESP32 Audio-Synced Fish Demo](./media/demo3.gif)  
+*Short animation showing mouth, head, and tail movements synced with music.*
 
 ## 🎯 Features
 
