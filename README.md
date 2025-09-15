@@ -1,6 +1,8 @@
 # ESP32-Based Audio-Synced Animatronic Project 🎶🐟  
 **Modernized Interactive Audio Toy**
 
+![Billy](./media/demo3.gif)
+
 ## 🧠 Overview
 
 This project modernizes the iconic 2000s "Big Mouth Billy Bass" animatronic fish by turning it into a Bluetooth speaker that synchronizes its mouth, head, and tail movements with any music in real time using embedded audio analysis.
@@ -10,9 +12,6 @@ The upgrade was implemented as a **Bachelor’s thesis** in **Computer Science**
 📑 Also see a project [Presenataion](./docs/Presentation.pptx).
 
 ---
-
-![Billy](./media/demo3.gif)
-
 
 ## 🎯 Features
 
