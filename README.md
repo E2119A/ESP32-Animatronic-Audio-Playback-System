@@ -3,6 +3,22 @@
 
 ![Billy](./media/demo3.gif)
 
+
+## 📑 Table of Contents
+- [Overview](#-overview)
+- [Features](#-features)
+- [Demo](#-demo)
+- [Hardware Used](#-hardware-used)
+- [Electrical Schematic](#-electrical-schematic)
+- [Block Diagram](#-block-diagram)
+- [System Architecture](#-system-architecture)
+- [Software Stack](#-software-stack)
+- [Testing & Debugging](#-testing--debugging)
+- [Future Improvements](#-future-improvements)
+- [Thesis](#-thesis)
+- [Acknowledgements](#-acknowledgements)
+
+
 ## 🧠 Overview
 
 This project modernizes the iconic 2000s "Big Mouth Billy Bass" animatronic fish by turning it into a Bluetooth speaker that synchronizes its mouth, head, and tail movements with any music in real time using embedded audio analysis.
