@@ -11,7 +11,6 @@ The upgrade was implemented as a **Bachelor’s thesis** in **Computer Science**
 
 📑 Also see a project [Presenataion](./docs/Presentation.pptx).
 
-![Billy](./media/demo3.gif)
 ---
 
 ## 🎯 Features
